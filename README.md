@@ -1,2 +1,2 @@
-# SnakeGame
-The game Snake in JavaScript
+# CardGame
+The game card in JavaScript
